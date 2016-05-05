@@ -1,0 +1,13 @@
+body {
+  background-color: grey;
+}
+
+.Band_Bio {
+  font-weight: bold;
+  float: right;
+  width: 50%;
+}
+
+img {
+  width: 45%;
+}
